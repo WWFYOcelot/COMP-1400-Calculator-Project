@@ -1,9 +1,3 @@
-/*
-COMP-1400 Assignment 3
-Faraan Rashid 
-110101889
-*/
-
 #include <stdio.h> // C standard Library for input/output functions
 #include <math.h>  // C math library for math functions 
 
